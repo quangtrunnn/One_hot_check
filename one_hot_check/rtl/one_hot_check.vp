@@ -1,0 +1,14 @@
+module one_hot_check (
+	input 	wire [3:0]	sig_in	 , 
+    input   wire        en       ,
+	output 	reg		    one_hot
+);
+`protected
+
+    MTI!#@xD~D@-5vDvX1B,jH=~moJ}{Us\^+UO?FI~on|([<!]:[fUo=VwwZG'VkKT7kJjn5Z3Unn*
+    zOz^5isB!RilT-O*?lJ#Rs7VL=;^,Y}15njjOns27w>-l(?EQp\t1~7l[-,?rF6\*+@675+@~s*=
+    !+3JoJ$pH_V*${+;|EZvIKTxwKX=^ECKnT<uHB1-Rrj7}7>$o'C,RS,\Y2=A,rB>e<2Un[o<^Ymv
+    opA&l!p2IpE~*hzkQH?'KoXvv1[?{x$I$ew<D5|tG~,V7a=aw$aG!j{Ir#rC=3wVO=YIz]ep5>=A
+    B>ew}G<7ZR\<BZ{plG'E~$<pL'!m\w}w];Yw!bt3E5i6[Cz$p>El=Wo!,*XI&E7
+`endprotected
+endmodule

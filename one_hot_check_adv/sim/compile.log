@@ -1,0 +1,11 @@
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+Start time: 00:06:50 on Jul 04,2025
+vlog -f compile.f 
+-- Compiling module one_hot_check
+-- Compiling module test_bench
+** Error: (vlog-13069) ../tb/test_bench.v(13): near "dut": syntax error, unexpected IDENTIFIER, expecting ')' or ','.
+** Error: ../tb/test_bench.v(58): (vlog-13161) unexpected '$display'
+** Error: ../tb/test_bench.v(61): (vlog-13161) unexpected '$finish'
+** Error: (vlog-13069) ../tb/test_bench.v(63): near "end": syntax error, unexpected end.
+End time: 00:06:50 on Jul 04,2025, Elapsed time: 0:00:00
+Errors: 4, Warnings: 0

@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/ictc/student_data/quangtrung/11_ss11/one_hot_check_adv/sim
+vone_hot_check
+!s110 1751562410
+!i10b 1
+!s100 =<5cdfThPdN>6PBQQf2iW3
+Ie>K;7jzBCMnc`P=n:WKAj1
+!i119 1
+R0
+w1751561042
+8../rtl/one_hot_check.vp
+F../rtl/one_hot_check.vp
+!i122 2
+L0 1 10
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1751562410.000000
+!s107 ../tb/test_bench.v|../rtl/one_hot_check.vp|
+!s90 -f|compile.f|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

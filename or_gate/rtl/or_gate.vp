@@ -1,0 +1,11 @@
+module or_gate (
+	input 	wire 		a	 , 
+	input 	wire 		b	 , 
+	output 	wire		z
+);
+`protected
+
+    MTI!#vziC3V'sYY,Y)@TD'QRI1EY*GaXJrGAMj?G#="[u{KoBBZgaC3\}Y\OOx}1obeR#CH7=[7*
+    AC|EbEw!!_U[3FdeW!m(=D?@C"^2B@1>-xFSC2T<Ibs@$$wG~3Y<
+`endprotected
+endmodule
